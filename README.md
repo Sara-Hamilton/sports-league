@@ -55,7 +55,7 @@ This is an Epicodus practice project for week 1 of the .NET course.  Its purpose
 
  * _Move into the directory_
  ```
- $ cd Tsports-league/Tsports-league
+ $ cd sports-league/sports-league
  ```
 
 *  _Setup the database_
